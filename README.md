@@ -3,13 +3,13 @@
 
 데이터 출처 : https://github.com/akngs/petitions 
 
-* [국민청원으로 Pandas 배우기 문제](petition-pandas-question.ipynb)
-* [국민청원으로 Pandas 배우기 답안](petition-pandas-answer.ipynb)
-* [Pandas와 Plotnine으로 분석 및 시각화](petition_pandas_plotnine.ipynb)
-* [KoNLPy로 전처리 하고 워드클라우드 그려보기](petition_konlpy.ipynb)
-* [soynlp로 전처리 하고 word2vec으로 벡터화](petition_soynlp.ipynb)
-* [soynlp로 명사추출하여 워드클라우드 그려보기](soynlp.ipynb)
-* [투표수 이진 분류하기](binary_classification.ipynb)
-* [카테고리 분류하기](category_classification.ipynb)
-* [기타 카테고리 예측해 채우기](category_classification_etc_xgb)
-* [투표수 회귀로 예측해 보기](petition_regression.ipynb)
+* [국민청원으로 Pandas 배우기 문제](00-pandas-question.ipynb)
+* [국민청원으로 Pandas 배우기 답안](01-pandas-answer.ipynb)
+* [Pandas와 Plotnine으로 분석 및 시각화](02-pandas-plotnine.ipynb)
+* [KoNLPy로 전처리 하고 워드클라우드 그려보기](03-konlpy-wordcloud.ipynb)
+* [soynlp로 명사추출하여 워드클라우드 그려보기](04-soynlp-wordcloud.ipynb)
+* [soynlp로 전처리 하고 word2vec으로 벡터화](05-word2vec.ipynb)
+* [단어 벡터화 하기](06-bag-of-words-tfidf.ipynb)
+* [투표수 이진 분류하기](07-binary-classification.ipynb)
+* [카테고리 분류하기](08-category-classification.ipynb)
+* [기타 카테고리 예측해 채우기](09-category-etc-classification-xgb.ipynb)
