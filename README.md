@@ -1,6 +1,9 @@
 # petitionWrangling
 청와대 국민청원 데이터 분석
 
+[📺 국민청원으로 파이썬 자연어처리 입문하기 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrtV81ehjOI0Y8Y-HR6GN78)
+
+
 데이터 출처 : https://github.com/akngs/petitions 
 
 * [국민청원으로 Pandas 배우기 문제](00-pandas-question.ipynb)
